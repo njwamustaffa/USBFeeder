@@ -1,0 +1,11 @@
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\bin\Debug\USBFeeder.exe.config
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\bin\Debug\USBFeeder.exe
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\bin\Debug\USBFeeder.pdb
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.csproj.AssemblyReference.cache
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.csproj.SuggestedBindingRedirects.cache
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.Form1.resources
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.Properties.Resources.resources
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.csproj.GenerateResource.cache
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.csproj.CoreCompileInputs.cache
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.exe
+C:\Users\UPNM\Desktop\USBFeeder\USBFeeder\USBFeeder\obj\Debug\USBFeeder.pdb
